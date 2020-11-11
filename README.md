@@ -12,6 +12,7 @@ You can also run your own server to host your updates, provided it conforms to t
 ### References
 https://docs.expo.io/bare/updating-your-app/ <br/>
 https://docs.expo.io/versions/latest/sdk/updates/ <br/>
-https://docs.expo.io/guides/configuring-ota-updates/
+https://docs.expo.io/guides/configuring-ota-updates/ \
+https://docs.expo.io/distribution/hosting-your-app/
 
 
